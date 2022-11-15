@@ -13,7 +13,7 @@ The number of packages generated and the number of cards drawn from each card pa
   * everyone has 3x copies of polymerization 
   * if your package contains a ritual monster you get the card that ritual summons it
 4. players battle it out with their decks
-5. The loser picks one card from their opponents deck and ban it
+5. The loser picks one card from their opponents deck. That card is now banned for all players
 6. The winner picks can pick any card of their chosing and add it to their deck
 7. both players are allowed to side deck between matches
 8. whoever wins best of 3 or 5. wins that session
